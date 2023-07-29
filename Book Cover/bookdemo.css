@@ -1,0 +1,31 @@
+#A{
+    color: whitesmoke;
+}
+#B{
+    font-style: italic;
+}
+#c{
+    font-style:Arial;
+    font-size:larger;
+
+}
+span{
+    font-size: x-large;
+}
+.title{
+    font-style: oblique;
+}
+#c11{
+    border-style:solid;
+    background-color: #01bcf3;
+    
+    border-width: 5px;
+    margin:auto;
+    width: 300px ;
+    height: 500px;
+    text-align: center;
+}
+#h13{
+    font-style:oblique;
+    font-size: smaller;
+}
